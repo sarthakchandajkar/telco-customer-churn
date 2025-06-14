@@ -94,7 +94,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-- **Dataset**: Provided by [Dataset Source/Platform].
+- **Dataset**: Provided by Telco Dataset.
 - **Libraries**: Thanks to the open-source libraries used in this project.
 
 ---
