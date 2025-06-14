@@ -1,0 +1,7 @@
+azure-storage-blob
+azure-mgmt-resource
+pandas
+pyodbc
+requests
+seaborn
+matplotlib
